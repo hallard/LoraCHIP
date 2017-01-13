@@ -1,7 +1,7 @@
 C.H.I.P. Computer Lora Gateway/Node for RFM95 or RN2483 Modules
 ===============================================================
 
-This shield is used to hold HopeRF [Lora module][4] or Microchip [RN2483 LoraWan modules][3] Software with C.H.I.P. Computer. it has just few minimal features. 
+This shield is used to hold HopeRF [Lora module][4] or Microchip [RN2483 LoraWan modules][3] Software with $9 [C.H.I.P. Computer][5]. it has just few minimal features. 
 
 This shield can also act as a LoraWAN Node/gateway using this custom dedicated software    
 - C.H.I.P. version of [LMIC][9] stack. This LMIC is in progress to works with this shield.
@@ -61,9 +61,9 @@ CHIP Computer   On Board Leds
 ![schematic](https://raw.githubusercontent.com/hallard/LoraCHIP/master/pictures/LoraCHIP-sch.png)  
 
 ### Boards  
-<img src="https://raw.githubusercontent.com/hallard/LoraCHIP/master/pictures/LoraCHIP-top.png" alt="Top">    
+<img src="https://raw.githubusercontent.com/hallard/LoraCHIP/master/pictures/LoraCHIP-top.jpg" alt="Top">    
 
-<img src="https://raw.githubusercontent.com/hallard/LoraCHIP/master/pictures/LoraCHIP-bot.png" alt="Bottom"> 
+<img src="https://raw.githubusercontent.com/hallard/LoraCHIP/master/pictures/LoraCHIP-bot.jpg" alt="Bottom"> 
 
 You can order the PCB of this board at [PCBs.io][8]. PCBs.io give me some reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 
@@ -90,6 +90,7 @@ See news and other projects on my [blog][2]
 [2]: https://hallard.me
 [3]: http://www.microchip.com/wwwproducts/en/RN2483
 [4]: http://www.hoperf.com/rf_transceiver/lora/
+[5]: https://getchip.com/pages/chip
 [8]: https://PCBs.io/share/46N5m
 [9]: https://github.com/hallard/arduino-lmic/tree/rpi
 [13]: https://github.com/hallard/arduino-lmic/blob/rpi/README.md
