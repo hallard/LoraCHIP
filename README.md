@@ -35,6 +35,8 @@ On board switch select which Uart goes to FTDI connector (Uart1 or Uart2), RN248
 
 You can also use shield as a standalone RN2483, just plug FTDI connector with decent 3V3 supply, best us to use FTDI cable with 3V3/5V selectable power (select 3V3 of course)
 
+Please look at C.H.I.P. [Hardware documentation][6].
+
 
 ```
 CHIP Computer        RN2483
@@ -91,6 +93,7 @@ See news and other projects on my [blog][2]
 [3]: http://www.microchip.com/wwwproducts/en/RN2483
 [4]: http://www.hoperf.com/rf_transceiver/lora/
 [5]: https://getchip.com/pages/chip
+[6]: https://docs.getchip.com/chip.html#pin-headers
 [8]: https://PCBs.io/share/46N5m
 [9]: https://github.com/hallard/arduino-lmic/tree/rpi
 [13]: https://github.com/hallard/arduino-lmic/blob/rpi/README.md
